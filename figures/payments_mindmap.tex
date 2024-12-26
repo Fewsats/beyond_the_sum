@@ -1,0 +1,54 @@
+\begin{figure*}[!ht]
+\scriptsize
+    \begin{adjustbox}{width=\textwidth}
+        \begin{forest}
+        mindmap
+        [Payments, fill=gray!45, parent
+            [Current Infrastructure \S\ref{subsec:payments_current}, node
+                [Traditional Payment Networks, node
+                    [{Credit Cards, ACH, Wire Transfers}, leaf]
+                ]
+                [Modern Payment Processors, node
+                    [{Unified APIs, Event Systems, Webhooks}, leaf]
+                ]
+                [Digital Payment Platforms, node
+                    [{Fintech, Digital Wallets}, leaf]
+                ]
+                [Cryptocurrency Ecosystem, node
+                    [{Blockchains, Wallets, Stablecoins}, leaf]
+                ]
+            ]
+            [Limitations for AI Agents \S\ref{subsec:payments_limitations}, node
+                [Identity and Verification, node
+                    [{KYC/AML, Manual Reviews, CAPTCHA}, leaf]
+                ]
+                [Antibot Measures, node
+                    [{Browser Fingerprinting, Behavioral Analysis}, leaf]
+                ]
+                [Technical Constraints, node
+                    [{Money Velocity, Transaction Amount}, leaf]
+                ]
+                [Business Model Limitations, node
+                    [{Fixed Fees, Subscription Models}, leaf]
+                ]
+            ]
+            [Future Design Considerations \S\ref{subsec:payments_future}, node
+                [Protocol-Level Innovations, node
+                    [{Standardized Interfaces, Real-Time Settlement}, leaf]
+                ]
+                [Authentication and Compliance, node
+                    [{Cryptographic Attestation, Continuous Monitoring}, leaf]
+                ]
+                [Machine-Scale Operations, node
+                    [{Tiered Fee Structures, Dynamic Pricing}, leaf]
+                ]
+                [Digital Wallets for Agents, node
+                    [{Autonomous Operation, Fund Management}, leaf]
+                ]
+            ]
+        ]   
+        \end{forest}
+    \end{adjustbox}
+    \caption{Payment infrastructure components and challenges.}
+    \label{fig:payments_mindmap}
+\end{figure*}

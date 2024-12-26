@@ -1,0 +1,60 @@
+\begin{figure*}[!ht]
+\scriptsize
+    \begin{adjustbox}{width=\textwidth}
+        \begin{forest}
+        mindmap
+        [Identity, fill=gray!45, parent
+            [Current Infrastructure \S\ref{subsec:identity_current}, node
+                [Basic Authentication, node
+                    [{Username/Password, Shared Secrets}, leaf]
+                ]
+                [Physical Factors, node
+                    [{2FA, YubiKeys, Authenticators}, leaf]
+                ]
+                [Session Management, node
+                    [{API Keys, JWT, Cookies}, leaf]
+                ]
+                [Federation Systems, node
+                    [{SAML, Distributed Verification}, leaf]
+                ]
+                [Certificate-Based Systems, node
+                    [{PKI, ACME, HTTPS}, leaf]
+                ]
+            ]
+            [Limitations for AI Agents \S\ref{subsec:identity_limitations}, node
+                [Scale and Speed, node
+                    [{Slow Identity Creation/Destruction}, leaf]
+                ]
+                [Lack of Physical Embodiment, node
+                    [{Lack of physical identity and verification}, leaf]
+                ]
+                [Rigid Hierarchies, node
+                    [{Low and rigid support for nested relationships}, leaf]
+                ]
+                [Trust and Reputation, node
+                    [{Hard to build reputation for short-lived identities}, leaf]
+                ]
+            ]
+            [Future Design \S\ref{subsec:identity_future}, node
+                [Cryptographic Identity, node
+                    [{Key Pairs, Cryptographic Proof}, leaf]
+                ]
+                [Machine-to-Machine Protocols, node
+                    [{Cryptographic Attestation, Instant Onboarding}, leaf]
+                ]
+                [Zero-Knowledge Systems, node
+                    [{Prove Properties, Verifiable Credentials}, leaf]
+                ]
+                [Capability-Based Systems, node
+                    [{Dynamic Delegation, Context-Aware Verification}, leaf]
+                ]
+                [New Trust Models, node
+                    [{Behavior-Based, Computational Proof}, leaf]
+                ]
+            ]
+        ]   
+        \end{forest}
+    \end{adjustbox}
+    \caption{Identity infrastructure components and challenges.}
+    \label{fig:identity_mindmap}
+\end{figure*}

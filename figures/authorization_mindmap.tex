@@ -1,0 +1,54 @@
+\begin{figure*}[!ht]
+\scriptsize
+    \begin{adjustbox}{width=\textwidth}
+        \begin{forest}
+        mindmap
+        [Authorization, fill=gray!45, parent
+            [Current Infrastructure \S\ref{subsec:authorization_current}, node
+                [RBAC, node
+                    [{Groups, Admin/Editor/Viewer Roles}, leaf]
+                ]
+                [ReBAC, node
+                    [{Social/Organizational Relationships, Document Access}, leaf]
+                ]
+                [Token Systems, node
+                    [{Stateful Sessions with Policies}, leaf]
+                ]
+                [Cross-Service Authorization, node
+                    [{OAuth Flows, Delegated Access}, leaf]
+                ]
+                [Permission Management, node
+                    [{Coarse-Grained, Infrequent Updates}, leaf]
+                ]
+            ]
+            [Limitations for AI Agents \S\ref{subsec:authorization_limitations}, node
+                [Static Permissions, node
+                    [{Rigid Permission Systems, Lack of Action Delegation}, leaf]
+                ]
+                [Cross-Service Challenges, node
+                    [{Continuous Delegation, Browser-based Approvals}, leaf]
+                ]
+                [Token Scalability, node
+                    [{Revocation Challenges}, leaf]
+                ]
+            ]
+            [Future Design \S\ref{subsec:authorization_future}, node
+                [ABAC, node
+                    [{Macaroons, Biscuits, Delegation Chains}, leaf]
+                ]
+                [Real-Time Policy Engines, node
+                    [{Dynamic Evaluation, Predictive Permissions}, leaf]
+                ]
+                [Edge Verification, node
+                    [{Distributed Evaluation, Audit Trails}, leaf]
+                ]
+                [Security Safeguards, node
+                    [{Privilege Control, Context Protection}, leaf]
+                ]
+            ]
+        ]   
+        \end{forest}
+    \end{adjustbox}
+    \caption{Authorization infrastructure components and challenges.}
+    \label{fig:authorization_mindmap}
+\end{figure*} 

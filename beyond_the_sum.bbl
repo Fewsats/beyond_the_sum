@@ -1,0 +1,370 @@
+\begin{thebibliography}{50}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Ahuja et~al.(2019)Ahuja, Ma, Morency, and Sheikh]{Ahuja2019}
+Chaitanya Ahuja, Shugao Ma, Louis-Philippe Morency, and Yaser Sheikh.
+\newblock To react or not to react: End-to-end visual pose forecasting for
+  personalized avatar during dyadic conversations.
+\newblock 2019.
+\newblock URL \url{https://arxiv.org/abs/1910.02181v1}.
+
+\bibitem[Arthur(2009)]{arthur2009nature}
+W.~Brian Arthur.
+\newblock \emph{The Nature of Technology: What It Is and How It Evolves}.
+\newblock Free Press, New York, USA, 2009.
+
+\bibitem[Baltrušaitis et~al.(2017)Baltrušaitis, Ahuja, and
+  Morency]{Baltrušaitis2017}
+Tadas Baltrušaitis, Chaitanya Ahuja, and Louis-Philippe Morency.
+\newblock "multimodal machine learning: A survey and taxonomy".
+\newblock 2017.
+\newblock URL \url{https://arxiv.org/abs/1705.09406v2}.
+
+\bibitem[Bengio and Frasconi(1995)]{Bengio1995}
+Y.~Bengio and P.~Frasconi.
+\newblock Diffusion of context and credit information in markovian models.
+\newblock 1995.
+\newblock URL \url{https://arxiv.org/abs/9510101v1}.
+
+\bibitem[Bergstra et~al.(2012)Bergstra, Yamins, and Cox]{Bergstra2012}
+J.~Bergstra, D.~Yamins, and D.~D. Cox.
+\newblock Making a science of model search.
+\newblock 2012.
+\newblock URL \url{https://arxiv.org/abs/1209.5111v1}.
+
+\bibitem[Bostrom(2014)]{bostrom2014superintelligence}
+Nick Bostrom.
+\newblock \emph{Superintelligence: Paths, Dangers, Strategies}.
+\newblock Oxford University Press, Oxford, UK, 2014.
+
+\bibitem[Botvinick et~al.(2017)Botvinick, Barrett, Battaglia, de~Freitas,
+  Kumaran, Leibo, Lillicrap, Modayil, Mohamed, Rabinowitz, Rezende, Santoro,
+  Schaul, Summerfield, Wayne, Weber, Wierstra, Legg, and
+  Hassabis]{Botvinick2017}
+M.~Botvinick, D.~G.~T. Barrett, P.~Battaglia, N.~de~Freitas, D.~Kumaran, J.~Z
+  Leibo, T.~Lillicrap, J.~Modayil, S.~Mohamed, N.~C. Rabinowitz, D.~J. Rezende,
+  A.~Santoro, T.~Schaul, C.~Summerfield, G.~Wayne, T.~Weber, D.~Wierstra,
+  S.~Legg, and D.~Hassabis.
+\newblock Building machines that learn and think for themselves: Commentary on
+  lake et al., behavioral and brain sciences, 2017.
+\newblock 2017.
+\newblock URL \url{https://arxiv.org/abs/1711.08378v1}.
+
+\bibitem[Brown et~al.(2020)Brown, Mann, Ryder, Subbiah, Kaplan, Dhariwal,
+  Neelakantan, Shyam, Sastry, Askell, Agarwal, Herbert-Voss, Krueger, Henighan,
+  Child, Ramesh, Ziegler, Wu, Winter, Hesse, Chen, Sigler, Litwin, Gray, Chess,
+  Clark, Berner, McCandlish, Radford, Sutskever, and Amodei]{Brown2020}
+Tom~B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan,
+  Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda
+  Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan,
+  Rewon Child, Aditya Ramesh, Daniel~M. Ziegler, Jeffrey Wu, Clemens Winter,
+  Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray,
+  Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford,
+  Ilya Sutskever, and Dario Amodei.
+\newblock Language models are few-shot learners.
+\newblock 2020.
+\newblock URL \url{https://arxiv.org/abs/2005.14165}.
+
+\bibitem[Brynjolfsson and McAfee(2011)]{brynjolfsson2011race}
+Erik Brynjolfsson and Andrew McAfee.
+\newblock \emph{Race against the machine: How the digital revolution is
+  accelerating innovation, driving productivity, and irreversibly transforming
+  employment and the economy}.
+\newblock Brynjolfsson and McAfee, 2011.
+
+\bibitem[Brynjolfsson and McAfee(2014)]{brynjolfsson2014second}
+Erik Brynjolfsson and Andrew McAfee.
+\newblock \emph{The Second Machine Age: Work, Progress, and Prosperity in a
+  Time of Brilliant Technologies}.
+\newblock W. W. Norton \& Company, 2014.
+
+\bibitem[Cameron(2005)]{cameron2005laws}
+Kim Cameron.
+\newblock The laws of identity.
+\newblock \emph{Microsoft Corp}, 12:\penalty0 8--11, 2005.
+
+\bibitem[Clark and Storkey(2014)]{Clark2014}
+Christopher Clark and Amos Storkey.
+\newblock "mastering the game of go with deep neural networks and tree search".
+\newblock 2014.
+\newblock URL \url{https://arxiv.org/abs/1412.3409v2}.
+
+\bibitem[Claudette(2024)]{claudette2024toolloop}
+Claudette.
+\newblock Tool loop – claudette, 2024.
+\newblock URL \url{https://claudette.answer.ai/toolloop.html}.
+\newblock Accessed: 2024-06-17.
+
+\bibitem[{Codeium}(2024)]{windsurf}
+{Codeium}.
+\newblock {Windsurf: Codeium's AI-Powered Code Generation}, 2024.
+\newblock URL \url{https://codeium.com/windsurf}.
+\newblock Accessed: 2024-06-17.
+
+\bibitem[{Cursor AI}(2024)]{cursor}
+{Cursor AI}.
+\newblock {Cursor: The AI-Powered Code Editor}, 2024.
+\newblock URL \url{https://www.cursor.com/}.
+\newblock Accessed: 2024-06-17.
+
+\bibitem[Dix(2004)]{dix2004human}
+Alan Dix.
+\newblock \emph{Human-computer interaction}, volume~1.
+\newblock Pearson Education, 2004.
+
+\bibitem[Douceur(2002)]{douceur2002sybil}
+John~R Douceur.
+\newblock The sybil attack.
+\newblock In \emph{International workshop on peer-to-peer systems}, pages
+  251--260. Springer, 2002.
+
+\bibitem[GitHub(2024)]{github2024survey}
+GitHub.
+\newblock Survey: The ai wave continues to grow on software development teams -
+  the github blog, 2024.
+\newblock URL
+  \url{https://github.blog/news-insights/research/survey-ai-wave-grows/}.
+\newblock Accessed: 2024-06-17.
+
+\bibitem[{GitHub, Inc.}(2024)]{copilot}
+{GitHub, Inc.}
+\newblock {GitHub Copilot: Your AI Pair Programmer}, 2024.
+\newblock URL \url{https://github.com/features/copilot}.
+\newblock Accessed: 2024-06-17.
+
+\bibitem[Goodfellow et~al.(2013)Goodfellow, Erhan, Carrier, Courville, Mirza,
+  Hamner, Cukierski, Tang, Thaler, Lee, Zhou, Ramaiah, Feng, Li, Wang,
+  Athanasakis, Shawe-Taylor, Milakov, Park, Ionescu, Popescu, Grozea, Bergstra,
+  Xie, Romaszko, Xu, Chuang, and Bengio]{Goodfellow2013}
+Ian~J. Goodfellow, Dumitru Erhan, Pierre~Luc Carrier, Aaron Courville, Mehdi
+  Mirza, Ben Hamner, Will Cukierski, Yichuan Tang, David Thaler, Dong-Hyun Lee,
+  Yingbo Zhou, Chetan Ramaiah, Fangxiang Feng, Ruifan Li, Xiaojie Wang,
+  Dimitris Athanasakis, John Shawe-Taylor, Maxim Milakov, John Park, Radu
+  Ionescu, Marius Popescu, Cristian Grozea, James Bergstra, Jingjing Xie,
+  Lukasz Romaszko, Bing Xu, Zhang Chuang, and Yoshua Bengio.
+\newblock Challenges in representation learning: A report on three machine
+  learning contests.
+\newblock 2013.
+\newblock URL \url{https://arxiv.org/abs/1307.0414}.
+
+\bibitem[Greenstein(2019)]{greenstein2019digital}
+Shane Greenstein.
+\newblock Digital infrastructure.
+\newblock \emph{Economics of infrastructure investment () University of Chicago
+  Press}, 2019.
+
+\bibitem[Haldane et~al.(2008)Haldane, Millard, and Saporta]{haldane2008future}
+Andrew~G Haldane, Stephen Millard, and Victoria Saporta.
+\newblock \emph{The future of payment systems}.
+\newblock Routledge, 2008.
+
+\bibitem[Hayek(1945)]{hayek1945knowledge}
+F.~A. Hayek.
+\newblock The use of knowledge in society.
+\newblock \emph{The American Economic Review}, 35\penalty0 (4):\penalty0
+  519--530, 1945.
+
+\bibitem[Kanervisto et~al.(2020{\natexlab{a}})Kanervisto, Karttunen, and
+  Hautamäki]{Kanervisto2020a}
+Anssi Kanervisto, Janne Karttunen, and Ville Hautamäki.
+\newblock "playing to learn: A study of minecraft".
+\newblock 2020{\natexlab{a}}.
+\newblock URL \url{https://arxiv.org/abs/2005.03374v1}.
+
+\bibitem[Kanervisto et~al.(2020{\natexlab{b}})Kanervisto, Kinnunen, and
+  Hautamäki]{Kanervisto2020b}
+Anssi Kanervisto, Tomi Kinnunen, and Ville Hautamäki.
+\newblock General characterization of agents by states they visit.
+\newblock 2020{\natexlab{b}}.
+\newblock URL \url{https://arxiv.org/abs/2012.01244v3}.
+
+\bibitem[Kanervisto et~al.(2020{\natexlab{c}})Kanervisto, Scheller, and
+  Hautamäki]{Kanervisto2020c}
+Anssi Kanervisto, Christian Scheller, and Ville Hautamäki.
+\newblock Action space shaping in deep reinforcement learning.
+\newblock 2020{\natexlab{c}}.
+\newblock URL \url{https://arxiv.org/abs/2004.00980v2}.
+
+\bibitem[Kaplan et~al.(2020{\natexlab{a}})Kaplan, McCandlish, Henighan, Brown,
+  Chess, Child, Gray, Radford, Wu, and Amodei]{Kaplan2020}
+Jared Kaplan, Sam McCandlish, Tom Henighan, Tom~B. Brown, Benjamin Chess, Rewon
+  Child, Scott Gray, Alec Radford, Jeffrey Wu, and Dario Amodei.
+\newblock Scaling laws for neural language models.
+\newblock 2020{\natexlab{a}}.
+\newblock URL \url{https://arxiv.org/abs/2001.08361}.
+
+\bibitem[Kaplan et~al.(2020{\natexlab{b}})Kaplan, McCandlish, Henighan, Brown,
+  Chess, Child, Gray, Radford, Wu, and Amodei]{kaplan2020scaling}
+Jared Kaplan, Sam McCandlish, Tom Henighan, Tom~B. Brown, Benjamin Chess, Rewon
+  Child, Scott Gray, Alec Radford, Jeffrey Wu, and Dario Amodei.
+\newblock Scaling laws for neural language models.
+\newblock 2020{\natexlab{b}}.
+\newblock URL \url{https://arxiv.org/abs/2001.08361}.
+
+\bibitem[Karttunen et~al.(2019)Karttunen, Kanervisto, Kyrki, and
+  Hautamäki]{Karttunen2019}
+Janne Karttunen, Anssi Kanervisto, Ville Kyrki, and Ville Hautamäki.
+\newblock From video game to real robot: The transfer between action spaces.
+\newblock 2019.
+\newblock URL \url{https://arxiv.org/abs/1905.00741v2}.
+
+\bibitem[Lee et~al.(2022)Lee, Ahuja, Liang, Natu, and Morency]{Lee2022}
+Dong~Won Lee, Chaitanya Ahuja, Paul~Pu Liang, Sanika Natu, and Louis-Philippe
+  Morency.
+\newblock Multimodal lecture presentations dataset: Understanding multimodality
+  in educational slides.
+\newblock 2022.
+\newblock URL \url{https://arxiv.org/abs/2208.08080v1}.
+
+\bibitem[Li et~al.(2022)Li, Lu, Guo, Duan, Jannu, Jenks, Majumder, Green,
+  Svyatkovskiy, Fu, and Sundaresan]{li2022automatingcodereviewactivities}
+Zhiyu Li, Shuai Lu, Daya Guo, Nan Duan, Shailesh Jannu, Grant Jenks, Deep
+  Majumder, Jared Green, Alexey Svyatkovskiy, Shengyu Fu, and Neel Sundaresan.
+\newblock Automating code review activities by large-scale pre-training, 2022.
+\newblock URL \url{https://arxiv.org/abs/2203.09095}.
+
+\bibitem[Lopez~de Prado(2018)]{lopez2018financial}
+Marcos Lopez~de Prado.
+\newblock \emph{Advances in Financial Machine Learning}.
+\newblock Wiley, 2018.
+
+\bibitem[Malone and Bernstein(2022)]{malone2022handbook}
+Thomas~W Malone and Michael~S Bernstein.
+\newblock \emph{Handbook of collective intelligence}.
+\newblock MIT press, 2022.
+
+\bibitem[Marcus(2018)]{Marcus2018}
+Gary Marcus.
+\newblock Deep learning: A critical appraisal.
+\newblock 2018.
+\newblock URL \url{https://arxiv.org/abs/1801.00631}.
+
+\bibitem[Marinescu(2022)]{marinescu2022cloud}
+Dan~C Marinescu.
+\newblock \emph{Cloud computing: theory and practice}.
+\newblock Morgan Kaufmann, 2022.
+
+\bibitem[Milani et~al.(2023)Milani, Kanervisto, Ramanauskas, Schulhoff,
+  Houghton, and Shah]{Milani2023}
+Stephanie Milani, Anssi Kanervisto, Karolis Ramanauskas, Sander Schulhoff,
+  Brandon Houghton, and Rohin Shah.
+\newblock Bedd: The minerl basalt evaluation and demonstrations dataset for
+  training and benchmarking agents that solve fuzzy tasks.
+\newblock 2023.
+\newblock URL \url{https://arxiv.org/abs/2312.02405v1}.
+
+\bibitem[Mnih et~al.(2013)Mnih, Kavukcuoglu, Silver, Graves, Antonoglou,
+  Wierstra, and Riedmiller]{Mnih2013}
+Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis
+  Antonoglou, Daan Wierstra, and Martin Riedmiller.
+\newblock "playing atari with deep reinforcement learning".
+\newblock 2013.
+\newblock URL \url{https://arxiv.org/abs/1312.5602v1}.
+
+\bibitem[Nisan et~al.(2007)Nisan, Roughgarden, Tardos, and
+  Vazirani]{nisan2007algorithmic}
+Noam Nisan, Tim Roughgarden, Eva Tardos, and Vijay~V Vazirani, editors.
+\newblock \emph{Algorithmic game theory}.
+\newblock Cambridge University Press, 2007.
+
+\bibitem[Nyatsanga et~al.(2023)Nyatsanga, Kucherenko, Ahuja, Henter, and
+  Neff]{Nyatsanga2023}
+Simbarashe Nyatsanga, Taras Kucherenko, Chaitanya Ahuja, Gustav~Eje Henter, and
+  Michael Neff.
+\newblock A comprehensive review of data-driven co-speech gesture generation.
+\newblock 2023.
+\newblock URL \url{https://arxiv.org/abs/2301.05339v4}.
+
+\bibitem[Replit(2024)]{replit2024agent}
+Replit.
+\newblock Replit agent | replit docs, 2024.
+\newblock URL \url{https://docs.replit.com/replitai/agent}.
+\newblock Accessed: 2024-06-17.
+
+\bibitem[Schelling(1978)]{schelling1978micromotives}
+Thomas~C. Schelling.
+\newblock \emph{Micromotives and Macrobehavior}.
+\newblock W. W. Norton \& Company, New York, USA, 1978.
+
+\bibitem[Schumpeter(1942)]{schumpeter1942capitalism}
+Joseph~A. Schumpeter.
+\newblock \emph{Capitalism, Socialism, and Democracy}.
+\newblock Harper \& Brothers, New York, USA, 1942.
+
+\bibitem[Silver et~al.(2017)Silver, Hubert, Schrittwieser, Antonoglou, Lai,
+  Guez, Lanctot, Sifre, Kumaran, Graepel, Lillicrap, Simonyan, and
+  Hassabis]{Silver2017}
+David Silver, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew
+  Lai, Arthur Guez, Marc Lanctot, Laurent Sifre, Dharshan Kumaran, Thore
+  Graepel, Timothy Lillicrap, Karen Simonyan, and Demis Hassabis.
+\newblock "mastering chess and shogi by self-play with a general reinforcement
+  learning algorithm".
+\newblock 2017.
+\newblock URL \url{https://arxiv.org/abs/1712.01815v1}.
+
+\bibitem[Singh and Pal(2014)]{singh2014survey}
+Ved~Prakash Singh and Preet Pal.
+\newblock Survey of different types of captcha.
+\newblock \emph{International Journal of Computer Science and Information
+  Technologies}, 5\penalty0 (2):\penalty0 2242--2245, 2014.
+
+\bibitem[Smith(1776)]{smith1776wealth}
+Adam Smith.
+\newblock \emph{An Inquiry into the Nature and Causes of the Wealth of
+  Nations}.
+\newblock W. Strahan and T. Cadell, London, UK, 1776.
+
+\bibitem[Vaswani et~al.(2017)Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez,
+  Kaiser, and Polosukhin]{Vaswani2017}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N. Gomez, Lukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need.
+\newblock 2017.
+\newblock URL \url{https://arxiv.org/abs/1706.03762}.
+
+\bibitem[Wang et~al.(2023)Wang, Xie, Jiang, Mandlekar, Xiao, Zhu, Fan, and
+  Anandkumar]{voyager}
+Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu,
+  Linxi Fan, and Anima Anandkumar.
+\newblock Voyager: An open-ended embodied agent with large language models,
+  2023.
+\newblock URL \url{https:%arxiv.org/abs/2305.16291}.
+
+\bibitem[Xi et~al.(2023)Xi, Chen, Guo, He, Ding, Hong, Zhang, Wang, Jin, Zhou,
+  Zheng, Fan, Wang, Xiong, Zhou, Wang, Jiang, Zou, Liu, Yin, Dou, Weng, Cheng,
+  Zhang, Qin, Zheng, Qiu, Huang, and Gui]{ai_agents_survey}
+Zhiheng Xi, Wenxiang Chen, Xin Guo, Wei He, Yiwen Ding, Boyang Hong, Ming
+  Zhang, Junzhe Wang, Senjie Jin, Enyu Zhou, Rui Zheng, Xiaoran Fan, Xiao Wang,
+  Limao Xiong, Yuhao Zhou, Weiran Wang, Changhao Jiang, Yicheng Zou, Xiangyang
+  Liu, Zhangyue Yin, Shihan Dou, Rongxiang Weng, Wensen Cheng, Qi~Zhang,
+  Wenjuan Qin, Yongyan Zheng, Xipeng Qiu, Xuanjing Huang, and Tao Gui.
+\newblock The rise and potential of large language model based agents: A
+  survey, 2023.
+\newblock URL \url{https:%arxiv.org/abs/2309.07864}.
+
+\bibitem[Zhu et~al.(2023)Zhu, Chen, Tian, Tao, Su, Yang, Huang, Li, Lu, Wang,
+  Qiao, Zhang, and Dai]{zhu2023ghost}
+Xizhou Zhu, Yuntao Chen, Hao Tian, Chenxin Tao, Weijie Su, Chenyu Yang, Gao
+  Huang, Bin Li, Lewei Lu, Xiaogang Wang, Yu~Qiao, Zhaoxiang Zhang, and Jifeng
+  Dai.
+\newblock Ghost in the minecraft: Generally capable agents for open-world
+  environments via large language models with text-based knowledge and memory,
+  2023.
+\newblock Shows how LLM-based agents overcome limitations of traditional RL
+  approaches by dynamically generating actions instead of selecting from
+  predefined ones. Traditional agents achieved only 30% completion rate vs 100%
+  for LLM agents.
+
+\bibitem[Ziegler et~al.(2019)Ziegler, Stiennon, Wu, Brown, Radford, Amodei,
+  Christiano, and Irving]{Ziegler2019}
+Daniel~M. Ziegler, Nisan Stiennon, Jeffrey Wu, Tom~B. Brown, Alec Radford,
+  Dario Amodei, Paul Christiano, and Geoffrey Irving.
+\newblock Fine-tuning language models from human preferences.
+\newblock 2019.
+\newblock URL \url{https://arxiv.org/abs/1909.08593v2}.
+
+\end{thebibliography}

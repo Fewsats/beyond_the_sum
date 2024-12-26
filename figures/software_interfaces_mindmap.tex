@@ -1,0 +1,54 @@
+\begin{figure*}[!ht]
+\scriptsize
+    \begin{adjustbox}{width=\textwidth}
+        \begin{forest}
+        mindmap
+        [Software Interfaces, fill=gray!45, parent
+            [Current Infrastructure \S\ref{subsec:interfaces_current}, node
+                [User Interfaces (UI), node
+                    [{Web Browsers, Desktop Apps, Mobile Apps}, leaf]
+                ]
+                [UI Design Patterns, node
+                    [{Progressive Disclosure, Navigation Structures}, leaf]
+                ]
+                [Application Programming Interface (API), node
+                    [{REST, GraphQL, JSON/XML}, leaf]
+                ]
+                [API Management, node
+                    [{Authentication, Rate Limiting, SDKs}, leaf]
+                ]
+            ]
+            [Limitations for AI Agents \S\ref{subsec:interfaces_limitations}, node
+                [UI Misalignment, node
+                    [{Visual Processing, Sequential Navigation}, leaf]
+                ]
+                [API Constraints, node
+                    [{Human-Readable Formats, Rate Limits}, leaf]
+                ]
+                [Consumption Patterns, node
+                    [{Forced UI/API Split}, leaf]
+                ]
+                [Integration Barriers, node
+                    [{Static Endpoints, Limited Discovery}, leaf]
+                ]
+            ]
+            [Future Design \S\ref{subsec:interfaces_future}, node
+                [Machine-Friendly Protocols, node
+                    [{Dynamic Negotiation, Efficient Data Formats}, leaf]
+                ]
+                [Machine-Readable Descriptions, node
+                    [{Semantic Meaning, Operation Effects}, leaf]
+                ]
+                [Unified Interfaces, node
+                    [{Adaptive Responses, Consumer-Based Granularity}, leaf]
+                ]
+                [Dynamic Service Composition, node
+                    [{Runtime Discovery, Workflow Creation}, leaf]
+                ]
+            ]
+        ]   
+        \end{forest}
+    \end{adjustbox}
+    \caption{Software interface components and challenges.}
+    \label{fig:interfaces_mindmap}
+\end{figure*}
